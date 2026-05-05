@@ -1,5 +1,5 @@
 # absorption-intensity
-These data provide estimates of absprption intensity, which was developed in my joint work with M. Deniz Yavuz. Measuring Firms' Capability to Absorb External Knowledge. Journal of Financial Economics, forthcoming. These data span 1950 through 2023. 
+These data provide estimates of absorption intensity, which was developed in my joint work with M. Deniz Yavuz. Measuring Firms' Capability to Absorb External Knowledge. Journal of Financial Economics, forthcoming. These data span 1950 through 2023. 
 
 If you use these data, please cite my paper as the data source. 
 
